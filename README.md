@@ -1,7 +1,7 @@
 # My Blog Website
 
 This is a full-stack blog website built with modern technologies. The frontend is developed using React with TypeScript, while the backend utilizes Prisma ORM with a PostgreSQL database. The backend is deployed on Cloudflare Workers using the Hono library, and the frontend is hosted on Vercel.
-**Visit the website:** [https://blog-website-jet-theta.vercel.app/]
+**Visit the website:** [https://blog-website-mu-flax.vercel.app/]
 
 
 ## Technologies Used
